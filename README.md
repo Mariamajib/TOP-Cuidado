@@ -6,16 +6,11 @@ This project was created thanks to the awareness raised by the people of The Opp
 
 
 ## Features
-
-- [x] Feature 1
-- [x] Feature 2
-- [x] Feature 3
-- [x] Feature 4
-- [x] Feature 5
-- [x] Feature 6
-- [x] Feature 7
-- [x] Feature 8
-- [x] Feature 9
+- [x] **User-Generated Content** - Cuidado is designed to address mental health outcomes across various age groups and language proficiencies. The app features a content switch that adjusts app products to be tailored toward specific age ranges, languages, and reading styles. For example, a 13-year-old Spanish user is able to adjust app preferences to receive content at an age-adjusted level and in Spanish dialogue.
+- [x] **Secured Data and Login** - From the ground up, Cuidado is oriented around privacy and security when handling sensitive user data - especially that of a minor. By following Federal COPPA laws and restrictions as well as outlined data protection protocols, users' data and rights are secured and assured when engaging with Cuidado.
+- [x] **Daily Mental Assessment** - In an effort to accurately gauge mental health trends among users, Cuidado conducts daily mental health assessment checks to determine trends among users of the service. Additionally, content on Cuidado is facilitated based on user assessment metrics and mental attitudes.
+- [x] **Services** - Cuidado offers users an array of mental health reinforcement services geared toward improving mental health outcomes. The tools include a storyline/role-playing activity, an interactive game, a mentor chat tool for a daily one-on-one check-in, an activity pool that lists local attractions, and finally, a resource hub that connects links and resources for users to access.
+- [x] **Scenario Activities & Points System** - Cuidado features an active Role-playing game designed for users to engage in various life and mental health situations. Operating on a point-based model, Cuiado awards appropriate responses on the game as a means of reinforcing positive mental health attitudes. Through points and extrinsic rewards, users are encouraged to gain and developed intrinsic mental reinforcement attitudes. This service also provides the ability for parents and guardians to receive feedback and analyze more of their child's mental health responses.
 
 ## Screenshots
 <img width="444" alt="1-screenshot" src="https://user-images.githubusercontent.com/59079555/221987488-bf629d6e-40ef-44c8-8270-311bade8b163.png">
@@ -68,10 +63,10 @@ Key Next Steps will include continual development of software and beta testing w
 
 
 ## Team Members
-Sam Davis Omekara Jr.
-Salvador Mendiola
-Tolu Oyeleke
-Jason Muka 
-Miriam Ajibade
-
+- Sam Davis Omekara Jr.
+- Salvador Mendiola
+- Tolu Oyeleke
+- Jason Muka 
+- Miriam Ajibade
+- Dr. Suzan Anwar (Faculty Advisor)
 
